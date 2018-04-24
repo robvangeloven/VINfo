@@ -1,2 +1,2 @@
-# VINfo.NET
+# VINfo
 A .NET based VIN parser
