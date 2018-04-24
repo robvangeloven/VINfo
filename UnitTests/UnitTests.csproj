@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VINfo.net\VINfo.csproj" />
+    <ProjectReference Include="..\VINfo\VINfo.csproj" />
   </ItemGroup>
 
 </Project>
