@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using VINfo;
 using Xunit;
 
 namespace UnitTests
