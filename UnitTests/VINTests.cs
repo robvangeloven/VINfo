@@ -9,6 +9,9 @@ namespace UnitTests
         public static IEnumerable<object[]> ValidVINS =>
             new List<object[]>
         {
+        //        new object[] { "KMHNM83CPYU000001" },
+        //        new object[] { "JMZMA18P200411817" },
+                new object[] { "KNACC81CGH5021844" },
                 new object[] { "1ZVHT82H485113456" },
                 new object[] { "11111111111111111" }
         };
